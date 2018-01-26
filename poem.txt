@@ -1,0 +1,5 @@
+Orang
+Red
+Purpel
+Blue
+End of poem
