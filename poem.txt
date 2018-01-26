@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and the pony
 Orang
 Red
 Purpel
@@ -8,4 +8,5 @@ Yellow
 pink
 Unicorn
 Blue
+pony color!
 End of poem
